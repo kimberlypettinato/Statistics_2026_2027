@@ -4,6 +4,6 @@ This repository contains my projects from the Statistics Laboratory
 of the Master's Degree in Bioinformatics for Computational Genomics.
 
 
-Teacher: A. Menafoglio
+Professor: A. Menafoglio
 
-Teacher Assistant: D. Koka.
+Professor Assistant: D. Koka.
